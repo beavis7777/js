@@ -4,4 +4,3 @@ admin = name;
 console.log( admin ); // 
 
 
-
