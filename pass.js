@@ -1,10 +1,10 @@
 let userName = prompt('Хто там?', '');
 
-if (userName === 'Admin') {
+if (userName === 'Beavis777') {
 
   let pass = prompt('Пароль?', '');
 
-  if (pass === 'Господар') {
+  if (pass === '9379992') {
     alert( 'Ласкаво просимо!' );
   } else if (pass === '' || pass === null) {
     alert( 'Скасовано' );
